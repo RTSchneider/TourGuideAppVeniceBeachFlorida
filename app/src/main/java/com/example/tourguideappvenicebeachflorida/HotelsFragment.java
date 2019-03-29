@@ -28,10 +28,10 @@ public class HotelsFragment extends Fragment {
 
     final ArrayList<ListItem> listItems = new ArrayList<>();
 
-        listItems.add(new ListItem("Hotel 1", getContext().getString(R.string.hotel1), " United States", "+1 ", "xxAM–xxPM", R.drawable.beachhotelpic1));
-        listItems.add(new ListItem("Hotel 2", getContext().getString(R.string.hotel2), " USA", "+1 ", "xxAM–xPM", R.drawable.beachhotel2));
-        listItems.add(new ListItem("Hotel 3", getContext().getString(R.string.hotel3), " USA", "+1 ", "xxAM–xxPM", R.drawable.beachhotel3));
-        listItems.add(new ListItem("Hotel 4", getContext().getString(R.string.hotel4), " USA", "+1 ", "xxam–xxPM", R.drawable.beachhotel4));
+        listItems.add(new ListItem("Tropical Shores Beach Resort", getContext().getString(R.string.hotel1), "6717 Sarasea Cir, Siesta Key, Fl", "+1 941.349.3330", "8am–10pm", R.drawable.tropicalbeachresortshotel1));
+        listItems.add(new ListItem("Home2 Suites by Hilton", getContext().getString(R.string.hotel2), "227 Albee Rd W, Nokomis, Fl", "+1 941.412.0064", "open 24 hours", R.drawable.home2hilton));
+        listItems.add(new ListItem("Comfort Suites Sarasota Siesta Key", getContext().getString(R.string.hotel3), "5690 Honore Ave, Sarasota, Fl", "+1 941.554.4475 ", "open 24 hours", R.drawable.comfortsuiteshotel3));
+        listItems.add(new ListItem("Ramada by Wyndham", getContext().getString(R.string.hotel4), "455 41 Bypass, Venice, Fl", "+1 800.252.1709", "open 24 hours", R.drawable.ramadahotel4));
 
     ListItemAdapter adapter = new ListItemAdapter(getActivity(), R.layout.list_item, listItems);
 

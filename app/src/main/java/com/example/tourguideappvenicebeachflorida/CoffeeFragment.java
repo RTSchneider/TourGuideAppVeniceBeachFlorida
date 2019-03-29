@@ -29,8 +29,10 @@ public class CoffeeFragment extends Fragment {
 
         final ArrayList<ListItem> listItems = new ArrayList<>();
 
-        listItems.add(new ListItem("coffee shop 1", getContext().getString(R.string.coffee1), "Venice, FL USA", "+1 ", "xxam-xxpm", R.drawable.coffee1));
-        listItems.add(new ListItem("coffee shop 2", getContext().getString(R.string.coffee2), "Venice Fl, USA", "+1 ", "xxam-xxpm", R.drawable.coffee2));
+        listItems.add(new ListItem("Island Coffee", getContext().getString(R.string.coffee1), "200 Miami Ave W, Venice, FL USA", "+1 941.485.6789", "7am-2pm", R.drawable.islandcoffeecoffee1));
+        listItems.add(new ListItem("Coffee Cafe", getContext().getString(R.string.coffee2), "101 Capri Isles Blvd., Venice Fl, USA", "+1 941.484.4100", "7am-2pm", R.drawable.coffeecafecoffee2));
+        listItems.add(new ListItem("Menotti's Coffee Stop", getContext().getString(R.string.coffee3), "56 Windward Ave., Venice Fl, 90291 USA", "+1 424-205-7014", "7am-6pm", R.drawable.menottiscoffee3));
+        listItems.add(new ListItem("Black Gold Coffee Roasters", getContext().getString(R.string.coffee4), "Jacaranda Commons, 2385 E. Venice Ave., Venice Fl, 34292 USA", "+1 941.488.8242", "M-F:7am-6pm, Sat:8am-2pm, Sun:Closed", R.drawable.blackgoldcoffeeroasterscoffee4));
 
         ListItemAdapter adapter = new ListItemAdapter(getActivity(), R.layout.list_item, listItems);
 

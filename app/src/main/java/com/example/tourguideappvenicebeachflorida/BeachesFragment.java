@@ -28,10 +28,10 @@ public class BeachesFragment extends Fragment {
 
         final ArrayList<ListItem> listItems = new ArrayList<>();
 
-        listItems.add(new ListItem("Brohard  Paw Park", getContext().getString(R.string.beach1), "1600 Harbor Dr. S.", "+1 941-861-9830", "Dawn to Dusk", R.drawable.dogbeach));
-        listItems.add(new ListItem("Caspersen Beach", getContext().getString(R.string.beach2), "", "+1 212-310-6600", "6AM–1AM", R.drawable.caspersenbeach));
-        listItems.add(new ListItem("Venice Municipal Beach", getContext().getString(R.string.beach3), "350 5th Ave, New York, NY 10118, USA", "+1 212-736-3100", "8AM–2AM", R.drawable.venicemunicipalbeach));
-        listItems.add(new ListItem("Nokomis Beach", getContext().getString(R.string.beach4), "Manhattan, NY 10036, USA", "+1 690-847-0982", "9AM–8PM", R.drawable.nokomisbeach));
+        listItems.add(new ListItem("Brohard  Paw Park", getContext().getString(R.string.beach1), "1600 Harbor Dr. S. Venice, Fl 34285", "+1 941.861.9830", "Dawn to Dusk", R.drawable.dogbeach));
+        listItems.add(new ListItem("Caspersen Beach", getContext().getString(R.string.beach2), "4100 Harbor Dr, Venice, Fl 34295", "+1 941.861.5000", "Dawn to Dusk", R.drawable.caspersenbeach));
+        listItems.add(new ListItem("Venice Municipal Beach", getContext().getString(R.string.beach3), "101 The Esplanade S., Venice, Fl 34285", "+1 941.861.5000 ", "Dawn to Dusk", R.drawable.venicemunicipalbeach));
+        listItems.add(new ListItem("Nokomis Public Beach", getContext().getString(R.string.beach4), "115 S. Casey Key Rd., Nokomis, Fl 34275", "+1 941.861.5000", "Dawn to Dusk", R.drawable.nokomisbeach));
 
         ListItemAdapter adapter = new ListItemAdapter(getActivity(), R.layout.list_item, listItems);
 
