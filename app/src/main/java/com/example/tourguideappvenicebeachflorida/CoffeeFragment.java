@@ -29,8 +29,8 @@ public class CoffeeFragment extends Fragment {
 
         final ArrayList<ListItem> listItems = new ArrayList<>();
 
-        listItems.add(new ListItem("OnCabs New York", getContext().getString(R.string.coffee1), "New York, NY, USA", "+1 646-248-5860", "24/7", R.drawable.coffee1));
-        listItems.add(new ListItem("Dial 7 - NYC Car and Limo Services", getContext().getString(R.string.coffee2), "43-23 35th St, Long Island City, NY 11101, USA", "+1 800-777-8888", "24/7", R.drawable.coffee2));
+        listItems.add(new ListItem("coffee shop 1", getContext().getString(R.string.coffee1), "Venice, FL USA", "+1 ", "xxam-xxpm", R.drawable.coffee1));
+        listItems.add(new ListItem("coffee shop 2", getContext().getString(R.string.coffee2), "Venice Fl, USA", "+1 ", "xxam-xxpm", R.drawable.coffee2));
 
         ListItemAdapter adapter = new ListItemAdapter(getActivity(), R.layout.list_item, listItems);
 
