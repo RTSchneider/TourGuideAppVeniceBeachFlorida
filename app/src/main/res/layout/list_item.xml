@@ -29,7 +29,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/listitemName"
-                tools:text="This Is A Title"
+                tools:text="card_title"
                 android:textColor="@color/colorPrimaryText"
                 android:id="@+id/listitem_name_text_view" />
 
@@ -37,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/listitemDescription"
-                tools:text="This is a description."
+                tools:text="card_description."
                 android:textColor="@color/colorSecondaryText"
                 android:id="@+id/listitem_description_text_view" />
 
@@ -47,7 +47,7 @@
                 android:drawableLeft="@drawable/baseline_location_on_black_18dp"
                 android:drawableTint="@color/colorAccent"
                 style="@style/listitemInfo"
-                tools:text="This is a location"
+                tools:text="card_location"
                 android:id="@+id/listitem_location_text_view" />
             <TextView
                 android:layout_width="match_parent"
@@ -55,7 +55,7 @@
                 android:drawableLeft="@drawable/baseline_phone_black_18dp"
                 android:drawableTint="@color/colorAccent"
                 style="@style/listitemInfo"
-                tools:text="This is a phone number"
+                tools:text="card_phonenumber"
                 android:id="@+id/listitem_phone_text_view" />
 
             <TextView
@@ -64,7 +64,7 @@
                 android:drawableLeft="@drawable/baseline_access_time_black_18dp"
                 android:drawableTint="@color/colorAccent"
                 style="@style/listitemInfo"
-                tools:text="These are the opening/closing hours"
+                tools:text="card_hours"
                 android:id="@+id/listitem_hours_text_view" />
 
 

@@ -14,30 +14,106 @@
     <!-- Category name for coffee -->
     <string name="category_coffee">Coffee</string>
 
-    <string name="beach1">For dog lovers, noteworthy in Venice is The Brohard Paw Park, with dog drinking fountains, showers on decks for dogs only, fire hydrants and leash posts. The park is also adjacent to the only beach area in the county where dogs are allowed to roam free. Dog lovers have declared this park and beach to be the best dog-friendly park in the state.</string>
-    <string name="beach2">The longest beach in Sarasota County; located south of Venice Airport on Harbor Drive. It has been left in its natural state, uncultivated, windswept, and secluded. This is an exceptionally good area to look for and find pre-historic sharks teeth as well as enjoyable shelling. It is also site of the annual Sharks Tooth and Seafood Festival.</string>
-    <string name="beach3">An excellent place to find sharks teeth and other fossilized material and attracts divers to its coral reef about one quarter mile offshore.</string>
-    <string name="beach4">A quiet, family-oriented beach, a good place for fishing, strolling, or launching a boat. </string>
+    <!-- Card text for BeachesFragment -->
+    <string name="beach1">For dog lovers, noteworthy in Venice is the Brohard Paw Park,
+                            with dog drinking fountains, showers on decks for dogs only,
+                            fire hydrants and leash posts.
+                            \n\nThe park is also adjacent to the only beach area in the
+                            county where dogs are allowed to roam free.
+                            \n\nDog lovers have declared this park and beach to be
+                            the best dog-friendly park in the state.</string>
 
-    <string name="restaurant1">Authentic Italian American Cuisine. The Prendi Family welcomes you to the wonderful world of tantalizing flavors and homemade dishes that bring warmth to the heart, and smiles to all who come to enjoy. It starts with the freshest ingredients and the pride that comes with making all of our dishes from scratch.</string>
-    <string name="restaurant2">A coastal contemporary establishment with cuisine as superb as the pristine views of the sparkling Gulf.</string>
-    <string name="restaurant3">When food, fun, and entertainment are the order of the day, Norma Jean\'\'s is where you want to be.</string>
-    <string name="restaurant4">Popi\'\s Place Family Restaurants is one of the few remaining Florida restaurants that is chef-family owned and operated (since 1983). Your meal is about to be prepared and served as it would have been several decades ago. It is our pleasure to serve you.</string>
+    <string name="beach2">The longest beach in Sarasota County!
+                            \n\nLocated south of Venice Airport on Harbor Drive.
+                            \n\nIt has been left in its natural state, uncultivated,
+                            windswept, and secluded.
+                            \n\nThis is an exceptionally good area to look for and find
+                            pre-historic shark teeth as well as enjoyable shelling.
+                            It is also site of the annual Sharks Tooth and
+                            Seafood Festival.</string>
 
+    <string name="beach3">An excellent place to find sharks teeth and other fossilized
+                            material and attracts divers to its coral reef about
+                            one quarter mile offshore.</string>
+
+    <string name="beach4">A quiet, family-oriented beach, a good place for fishing,
+                            strolling, or launching a boat. </string>
+
+    <!-- Card text for HotelsFragment -->
     <string name="hotel1">Rated very highly;
-                midscale, smoke-free, Siesta Key hotel near beach. 2 floors, 72 rooms and suites - no elevator; 2 heated outdoor swimming pools; kitchen in every room.
-                Not pet friendly - no pets allowed.
-                Note: This hotel charges a resort fee of $10 per night; includes parking, Internet access, and beach amenities.</string>
-    <string name="hotel2">Modern hotel for the savvy, sophisticated traveler looking for fun and relaxation, make Home2 Suites by Hilton Nokomis your Home2.</string>
-    <string name="hotel3">If you\’\re looking for a spacious all-suite hotel in Sarasota, FL, remember you can get a great night\’\s rest here with us!</string>
-    <string name="hotel4">Soak Up the Sun!
-                Plan your stay at our pet-friendly Venice hotel near the beaches.
-                Discover exceptional amenities in the Shark Tooth Capital of the World at our Ramada Venice Hotel Venezia. Located minutes from white sandy beaches on the Gulf Coast of Florida, find easy access to the area\’\s best attractions, golf courses, shops, and restaurants when you stay at our breathtaking Venice beach setting.</string>
+                            midscale, smoke-free, Siesta Key hotel near beach.
+                            Two floors, 72 rooms and suites - no elevator; two heated
+                            outdoor swimming pools; kitchen in every room.
+                            \n\nNot pet friendly - no pets allowed.
+                            \n\nNote: This hotel charges a resort fee of $10 per night;
+                            includes parking, Internet access, and beach amenities.</string>
 
-    <string name="coffee1">Homemade bakery, breakfast and lunch. Organic Locally roasted coffee. Love what you eat and the people that serve you. This local coffee house and cafe is the "Cheers" of Venice.</string>
-    <string name="coffee2">Specializing in fresh-baked quiche, omelettes, homemade soups,salads,hot-pressed paninis,sandwiches, New York Bagels, Pastries, muffins, sweets and fresh baked Bavarian bread. Gluten-free options.
-Fresh-ground coffee, Espresso drinks, Iced Coffee, All Natural Fresh-Brewed iced teas and hot teas. Chai Tea Lattes and much more!</string>
-    <string name="coffee3">At Menotti\'\s Coffee Stop, you can enjoy a prime view of the Venice Beach boardwalk while you sip your morning coffee. Our coffee shop is a popular gathering spot with a relaxed, beach-front atmosphere. With both vegan and organic coffee options on our menu, our cafe attracts a range of both regulars and day-trippers.</string>
-    <string name="coffee4">Black Gold Coffee Roasters, founded by Gary Lauters II, a highly recognized roast master who has spent nearly his entire life dedicated to and focused on coffee and the business that it has become, is truly dedicated to enriching the entire line of people involved in bringing their specially roasted coffee to the lips of the coffee lover in America. </string>
+    <string name="hotel2">Modern hotel for the savvy, sophisticated traveler looking for
+                            fun and relaxation, make Home2 Suites by Hilton Nokomis your
+                            Home2.</string>
+
+    <string name="hotel3">If you\’\re looking for a spacious all-suite hotel in Sarasota, FL, remember you can get a great night\’\s rest here with us!</string>
+
+    <string name="hotel4">Soak Up the Sun!
+                            \n\nPlan your stay at our pet-friendly Venice hotel near the beaches.
+                            Discover exceptional amenities in the Shark Tooth Capital
+                            of the World at our Ramada Venice Hotel Venezia.
+                            \n\nLocated minutes from white sandy beaches on the Gulf Coast
+                            of Florida, find easy access to the area\’\s best attractions,
+                            golf courses, shops, and restaurants when you stay at our
+                            breathtaking Venice beach setting.</string>
+
+    <!-- Card text for RestaurantsFragment -->
+    <string name="restaurant1">Authentic Italian American Cuisine.
+                                \n\nThe Prendi Family welcomes you to the wonderful world
+                                of tantalizing flavors and homemade dishes that bring warmth
+                                to the heart, and smiles to all who come to enjoy.
+                                It starts with the freshest ingredients and the pride
+                                that comes with making all of our dishes from scratch.</string>
+
+    <string name="restaurant2">A coastal contemporary establishment with cuisine
+                                as superb as the pristine views of the sparkling Gulf.</string>
+
+    <string name="restaurant3">When food, fun, and entertainment are the order of the day,
+                                Norma Jean\'\s is where you want to be.</string>
+
+    <string name="restaurant4">Welcome to Paradise Grill!
+                                \n\nDiscover Paradise Grill, where it\’\s always tiki time!
+                                \n\nEnter this Nokomis eatery, and you’ll be charmed by
+                                its warm, inviting vibe; inspired, quality-driven menu;
+                                and friendly staff.
+                                \n\nIn fact, when you come in, you\’\ll find
+                                that the restaurant\’\s team will make you feel welcome
+                                at this casual neighborhood meeting place.</string>
+
+    <!-- Card text for CoffeeFragment -->
+    <string name="coffee1">Homemade bakery, breakfast and lunch.
+                            \n\nOrganic, locally-roasted coffee. Love what you eat
+                            and the people who serve you.
+                            \n\nThis local coffee house and cafe is
+                            the "Cheers" of Venice.</string>
+
+    <string name="coffee2">Specializing in fresh-baked quiche, omelettes, homemade soups,
+                            salads, hot-pressed paninis, sandwiches, New York bagels,
+                            pastries, muffins, sweets and freshly-baked Bavarian bread.
+                            \n\nGluten-free options available.
+                            \n\nFreshly-ground coffee, Espresso drinks, iced coffee,
+                            all-natural freshly-brewed iced teas and hot teas.
+                            Chai Tea Lattes and much more!</string>
+
+    <string name="coffee3">At Menotti\'\s Coffee Stop, you can enjoy a prime view
+                            of the Venice Beach boardwalk while you sip your morning coffee.
+                            \n\nOur coffee shop is a popular gathering spot with a relaxed,
+                            beach-front atmosphere.
+                            \n\nWith both vegan and organic coffee options on our menu,
+                            our cafe attracts a range of both regulars and day-trippers.</string>
+
+    <string name="coffee4">Black Gold Coffee Roasters, founded by Gary Lauters II,
+                            a highly recognized roast master who has spent nearly his
+                            entire life dedicated to and focused on coffee and the
+                            business that it has become.
+                            \n\nGary is truly dedicated to enriching the entire line
+                            of people involved in bringing their specially roasted
+                            coffee to the lips of the coffee lover in America. </string>
 
 </resources>
