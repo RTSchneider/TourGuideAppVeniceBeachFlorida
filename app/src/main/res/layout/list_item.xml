@@ -44,7 +44,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ic_place"
+                android:drawableLeft="@drawable/baseline_location_on_black_18dp"
                 android:drawableTint="@color/colorAccent"
                 style="@style/listitemInfo"
                 tools:text="This is a location"
@@ -52,7 +52,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ic_local_phone"
+                android:drawableLeft="@drawable/baseline_phone_black_18dp"
                 android:drawableTint="@color/colorAccent"
                 style="@style/listitemInfo"
                 tools:text="This is a phone number"
@@ -61,7 +61,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ic_watch_later"
+                android:drawableLeft="@drawable/baseline_access_time_black_18dp"
                 android:drawableTint="@color/colorAccent"
                 style="@style/listitemInfo"
                 tools:text="These are the opening/closing hours"
