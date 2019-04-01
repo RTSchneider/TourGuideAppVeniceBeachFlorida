@@ -15,15 +15,21 @@
     <string name="category_coffee">Coffee</string>
 
     <!-- Card text for BeachesFragment -->
-    <string name="beach1">For dog lovers, noteworthy in Venice is the Brohard Paw Park,
+    <string name="brohardpawpark">Brohard  Paw Park</string>
+    <string name="brohardpawpark_description">For dog lovers, noteworthy in Venice is
+                            the Brohard Paw Park,
                             with dog drinking fountains, showers on decks for dogs only,
                             fire hydrants and leash posts.
                             \n\nThe park is also adjacent to the only beach area in the
                             county where dogs are allowed to roam free.
                             \n\nDog lovers have declared this park and beach to be
                             the best dog-friendly park in the state.</string>
+    <string name="brohardpawpark_address">1600 Harbor Dr. S. Venice, Fl 34285</string>
+    <string name="brohardpawpark_phonenumber">+1 941.861.9830</string>
+    <string name="brohardpawpark_hours">Dawn to Dusk</string>
 
-    <string name="beach2">The longest beach in Sarasota County!
+    <string name="caspersenbeach">Caspersen Beach</string>
+    <string name="caspersenbeach_description">The longest beach in Sarasota County!
                             \n\nLocated south of Venice Airport on Harbor Drive.
                             \n\nIt has been left in its natural state, uncultivated,
                             windswept, and secluded.
@@ -31,30 +37,56 @@
                             pre-historic shark teeth as well as enjoyable shelling.
                             It is also site of the annual Sharks Tooth and
                             Seafood Festival.</string>
+    <string name="caspersenbeach_address">4100 Harbor Dr, Venice, Fl 34295</string>
+    <string name="caspersenbeach_phonenumber">+1 941.861.5000</string>
+    <string name="caspersenbeach_hours">Dawn to Dusk</string>
 
-    <string name="beach3">An excellent place to find sharks teeth and other fossilized
-                            material and attracts divers to its coral reef about
-                            one quarter mile offshore.</string>
+    <string name="venicemunicipalbeach">Venice Municipal Beach</string>
+    <string name="venicemunicipalbeach_description">An excellent place to find sharks
+                            teeth and other fossilized material and attracts divers
+                            to its coral reef about one quarter mile offshore.</string>
+    <string name="venicemunicipalbeach_address">101 The Esplanade S., Venice, Fl 34285</string>
+    <string name="venicemunicipalbeach_phonenumber">+1 941.861.5000</string>
+    <string name="venicemunicipalbeach_hours">Dawn to Dusk</string>
 
-    <string name="beach4">A quiet, family-oriented beach, a good place for fishing,
-                            strolling, or launching a boat. </string>
+    <string name="nokomispublicbeach">Nokomis Public Beach</string>
+    <string name="nokomispublicbeach_description">A quiet, family-oriented beach,
+                            a good place for fishing, strolling, or launching a boat. </string>
+    <string name="nokomispublicbeach_address">115 S. Casey Key Rd., Nokomis, Fl 34275</string>
+    <string name="nokomispublicbeach_phonenumber">+1 941.861.5000</string>
+    <string name="nokomispublicbeach_hours">Dawn to Dusk</string>
 
     <!-- Card text for HotelsFragment -->
-    <string name="hotel1">Rated very highly;
+    <string name="tropicalshoresbeachresort">Tropical Shores Beach Resort</string>
+    <string name="tropicalshoresbeachresort_description">Rated very highly;
                             midscale, smoke-free, Siesta Key hotel near beach.
                             Two floors, 72 rooms and suites - no elevator; two heated
                             outdoor swimming pools; kitchen in every room.
                             \n\nNot pet friendly - no pets allowed.
                             \n\nNote: This hotel charges a resort fee of $10 per night;
                             includes parking, Internet access, and beach amenities.</string>
+    <string name="tropicalshoresbeachresort_address">6717 Sarasea Cir, Siesta Key, Fl</string>
+    <string name="tropicalshoresbeachresort_phonenumber">+1 941.349.3330</string>
+    <string name="tropicalshoresbeachresort_hours">8am–10pm</string>
 
-    <string name="hotel2">Modern hotel for the savvy, sophisticated traveler looking for
-                            fun and relaxation, make Home2 Suites by Hilton Nokomis your
-                            Home2.</string>
+    <string name="home2suitesbyhilton">Home2 Suites by Hilton</string>
+    <string name="home2suitesbyhilton_description">Modern hotel for the savvy, sophisticated
+                            traveler looking for fun and relaxation, make Home2 Suites
+                            by Hilton Nokomis your Home2.</string>
+    <string name="home2suitesbyhilton_address">227 Albee Rd W, Nokomis, Fl</string>
+    <string name="home2suitesbyhilton_phonenumber">+1 941.412.0064</string>
+    <string name="home2suitesbyhilton_hours">open 24 hours</string>
 
-    <string name="hotel3">If you\’\re looking for a spacious all-suite hotel in Sarasota, FL, remember you can get a great night\’\s rest here with us!</string>
+    <string name="comfortsuitessarasotasiestakey">Comfort Suites Sarasota Siesta Key</string>
+    <string name="comfortsuitessarasotasiestakey_description">If you\’\re looking for
+                            a spacious all-suite hotel in Sarasota, FL,
+                            remember you can get a great night\’\s rest here with us!</string>
+    <string name="comfortsuitessarasotasiestakey_address">5690 Honore Ave, Sarasota, Fl</string>
+    <string name="comfortsuitessarasotasiestakey_phonenumber">+1 941.554.4475</string>
+    <string name="comfortsuitessarasotasiestakey_hours">open 24 hours</string>
 
-    <string name="hotel4">Soak Up the Sun!
+    <string name="ramadabywyndham">Ramada by Wyndham</string>
+    <string name="ramadabywyndham_description">Soak Up the Sun!
                             \n\nPlan your stay at our pet-friendly Venice hotel near the beaches.
                             Discover exceptional amenities in the Shark Tooth Capital
                             of the World at our Ramada Venice Hotel Venezia.
@@ -62,22 +94,40 @@
                             of Florida, find easy access to the area\’\s best attractions,
                             golf courses, shops, and restaurants when you stay at our
                             breathtaking Venice beach setting.</string>
+    <string name="ramadabywyndham_address">455 41 Bypass, Venice, Fl</string>
+    <string name="ramadabywyndham_phonenumber">+1 800.252.1709</string>
+    <string name="ramadabywyndham_hours">open 24 hours</string>
 
     <!-- Card text for RestaurantsFragment -->
-    <string name="restaurant1">Authentic Italian American Cuisine.
+    <string name="josephsdinerandpizza">Joseph\'s Diner and Pizza</string>
+    <string name="josephsdinerandpizza_description">Authentic Italian American Cuisine.
                                 \n\nThe Prendi Family welcomes you to the wonderful world
                                 of tantalizing flavors and homemade dishes that bring warmth
                                 to the heart, and smiles to all who come to enjoy.
                                 It starts with the freshest ingredients and the pride
                                 that comes with making all of our dishes from scratch.</string>
+    <string name="josephsdinerandpizza_address">625 N. Tamiami Trail, Nokomis, FL 34275</string>
+    <string name="josephsdinerandpizza_phonenumber">+1 941.480.0095</string>
+    <string name="josephsdinerandpizza_hours">Mon-Sat:11am-9pm | Sun:Closed</string>
 
-    <string name="restaurant2">A coastal contemporary establishment with cuisine
-                                as superb as the pristine views of the sparkling Gulf.</string>
+    <string name="finsatsharkeys">Fins at Sharkey\'s</string>
+    <string name="finsatsharkeys_description">A coastal contemporary establishment
+                                with cuisine as superb as the pristine views
+                                of the sparkling Gulf.</string>
+    <string name="finsatsharkeys_address">1600 Harbor Dr S, Venice, FL 34825</string>
+    <string name="finsatsharkeys_phonenumber">+1 941.999.3467</string>
+    <string name="finsatsharkeys_hours">12pm-10pm</string>
 
-    <string name="restaurant3">When food, fun, and entertainment are the order of the day,
-                                Norma Jean\'\s is where you want to be.</string>
+    <string name="normajeanssportsgrill">Norma Jean\'s Sports Grill</string>
+    <string name="normajeanssportsgrill_description">When food, fun, and entertainment
+                                are the order of the day, Norma Jean\'\s is where you
+                                want to be.</string>
+    <string name="normajeanssportsgrill_address">1272 S Tamiami Trl, Osprey, FL 34229</string>
+    <string name="normajeanssportsgrill_phonenumber">+1 941.786.1834</string>
+    <string name="normajeanssportsgrill_hours">11am-11pm</string>
 
-    <string name="restaurant4">Welcome to Paradise Grill!
+    <string name="paradisegrill">Paradise Grill</string>
+    <string name="paradisegrill_description">Welcome to Paradise Grill!
                                 \n\nDiscover Paradise Grill, where it\’\s always tiki time!
                                 \n\nEnter this Nokomis eatery, and you’ll be charmed by
                                 its warm, inviting vibe; inspired, quality-driven menu;
@@ -85,35 +135,61 @@
                                 \n\nIn fact, when you come in, you\’\ll find
                                 that the restaurant\’\s team will make you feel welcome
                                 at this casual neighborhood meeting place.</string>
+    <string name="paradisegrill_address">1097 N Tamiami Trl., Publix Shopping Plaza,
+                                Nokomis, Fl 34275</string>
+    <string name="paradisegrill_phonenumber">+1 941.786.1524</string>
+    <string name="paradisegrill_hours">7:30am-11pm</string>
 
     <!-- Card text for CoffeeFragment -->
-    <string name="coffee1">Homemade bakery, breakfast and lunch.
+    <string name="islandcoffee">Island Coffee</string>
+    <string name="islandcoffee_description">Homemade bakery, breakfast and lunch.
                             \n\nOrganic, locally-roasted coffee. Love what you eat
                             and the people who serve you.
                             \n\nThis local coffee house and cafe is
                             the "Cheers" of Venice.</string>
+    <string name="islandcoffee_address">200 Miami Ave W, Venice, FL USA</string>
+    <string name="islandcoffee_phonenumber">+1 941.485.6789</string>
+    <string name="islandcoffee_hours">7am-2pm</string>
 
-    <string name="coffee2">Specializing in fresh-baked quiche, omelettes, homemade soups,
-                            salads, hot-pressed paninis, sandwiches, New York bagels,
-                            pastries, muffins, sweets and freshly-baked Bavarian bread.
+    <string name="coffeecafe">Coffee Cafe</string>
+    <string name="coffeecafe_description">Specializing in fresh-baked quiche, omelettes,
+                            homemade soups, salads, hot-pressed paninis, sandwiches,
+                            New York bagels, pastries, muffins, sweets and freshly-baked
+                            Bavarian bread.
                             \n\nGluten-free options available.
                             \n\nFreshly-ground coffee, Espresso drinks, iced coffee,
                             all-natural freshly-brewed iced teas and hot teas.
                             Chai Tea Lattes and much more!</string>
+    <string name="coffeecafe_address">101 Capri Isles Blvd., Venice Fl, USA</string>
+    <string name="coffeecafe_phonenumber">+1 941.484.4100</string>
+    <string name="coffeecafe_hours">7am-2pm</string>
 
-    <string name="coffee3">At Menotti\'\s Coffee Stop, you can enjoy a prime view
-                            of the Venice Beach boardwalk while you sip your morning coffee.
+    <string name="menottiscoffeestop">Menotti\'s Coffee Stop</string>
+    <string name="menottiscoffeestop_description">At Menotti\'\s Coffee Stop, you can
+                            enjoy a prime view of the Venice Beach boardwalk while you
+                            sip your morning coffee.
                             \n\nOur coffee shop is a popular gathering spot with a relaxed,
                             beach-front atmosphere.
                             \n\nWith both vegan and organic coffee options on our menu,
                             our cafe attracts a range of both regulars and day-trippers.</string>
+    <string name="menottiscoffeestop_address">56 Windward Ave., Venice Fl, 90291 USA</string>
+    <string name="menottiscoffeestop_phonenumber">+1 424-205-7014</string>
+    <string name="menottiscoffeestop_hours">7am-6pm</string>
 
-    <string name="coffee4">Black Gold Coffee Roasters, founded by Gary Lauters II,
+    <string name="blackgoldcoffeeroasters">Black Gold Coffee Roasters</string>
+    <string name="blackgoldcoffeeroasters_description">Black Gold Coffee Roasters,
+                            founded by Gary Lauters II,
                             a highly recognized roast master who has spent nearly his
                             entire life dedicated to and focused on coffee and the
                             business that it has become.
                             \n\nGary is truly dedicated to enriching the entire line
                             of people involved in bringing their specially roasted
                             coffee to the lips of the coffee lover in America. </string>
+    <string name="blackgoldcoffeeroasters_address">Jacaranda Commons, 2385 E. Venice Ave.,
+                            Venice Fl, 34292 USA</string>
+    <string name="blackgoldcoffeeroasters_phonenumber">+1 941.488.8242</string>
+    <string name="blackgoldcoffeeroasters_hours">M-F:7am-6pm, Sat:8am-2pm, Sun:Closed</string>
+
+
 
 </resources>

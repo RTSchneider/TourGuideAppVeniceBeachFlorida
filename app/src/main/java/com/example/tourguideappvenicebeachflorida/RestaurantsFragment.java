@@ -27,10 +27,10 @@ public class RestaurantsFragment extends Fragment {
 
         final ArrayList<ListItem> listItems = new ArrayList<>();
 
-        listItems.add(new ListItem("Joseph's Diner and Pizza", getContext().getString(R.string.restaurant1), "625 N. Tamiami Trail, Nokomis, FL 34275", "+1 941.480.0095", "Mon-Sat:11am-9pm | Sun:Closed", R.drawable.josephsdinerandpizza));
-        listItems.add(new ListItem("Fins at Sharkey's", getContext().getString(R.string.restaurant2), "1600 Harbor Dr S, Venice, FL 34825", "+1 941.999.3467", "12pm-10pm", R.drawable.finsatsharkeys));
-        listItems.add(new ListItem("Norma Jean's Sports Grill", getContext().getString(R.string.restaurant3), "1272 S Tamiami Trl, Osprey, FL 34229", "+1 941.786.1834", "11am-11pm", R.drawable.normajeans));
-        listItems.add(new ListItem("Paradise Grill", getContext().getString(R.string.restaurant4), "1097 N Tamiami Trl., Publix Shopping Plaza, Nokomis, Fl 34275", "+1 941.786.1524", "7:30am-11pm", R.drawable.paradisegrill));
+        listItems.add(new ListItem(getString(R.string.josephsdinerandpizza), getContext().getString(R.string.josephsdinerandpizza_description), getString(R.string.josephsdinerandpizza_address), getString(R.string.josephsdinerandpizza_phonenumber), getString(R.string.josephsdinerandpizza_hours), R.drawable.josephsdinerandpizza));
+        listItems.add(new ListItem(getString(R.string.finsatsharkeys), getContext().getString(R.string.finsatsharkeys_description), getString(R.string.finsatsharkeys_address), getString(R.string.finsatsharkeys_phonenumber), getString(R.string.finsatsharkeys_hours), R.drawable.finsatsharkeys));
+        listItems.add(new ListItem(getString(R.string.normajeanssportsgrill), getContext().getString(R.string.normajeanssportsgrill_description), getString(R.string.normajeanssportsgrill_address), getString(R.string.normajeanssportsgrill_phonenumber), getString(R.string.normajeanssportsgrill_hours), R.drawable.normajeans));
+        listItems.add(new ListItem(getString(R.string.paradisegrill), getContext().getString(R.string.paradisegrill_description), getString(R.string.paradisegrill_address), getString(R.string.paradisegrill_phonenumber), getString(R.string.paradisegrill_hours), R.drawable.paradisegrill));
 
         ListItemAdapter adapter = new ListItemAdapter(getActivity(), R.layout.list_item, listItems);
 

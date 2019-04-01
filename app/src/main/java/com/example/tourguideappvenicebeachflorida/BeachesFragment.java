@@ -7,7 +7,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -28,10 +27,10 @@ public class BeachesFragment extends Fragment {
 
         final ArrayList<ListItem> listItems = new ArrayList<>();
 
-        listItems.add(new ListItem("Brohard  Paw Park", getContext().getString(R.string.beach1), "1600 Harbor Dr. S. Venice, Fl 34285", "+1 941.861.9830", "Dawn to Dusk", R.drawable.dogsonbeach));
-        listItems.add(new ListItem("Caspersen Beach", getContext().getString(R.string.beach2), "4100 Harbor Dr, Venice, Fl 34295", "+1 941.861.5000", "Dawn to Dusk", R.drawable.caspersenbeach));
-        listItems.add(new ListItem("Venice Municipal Beach", getContext().getString(R.string.beach3), "101 The Esplanade S., Venice, Fl 34285", "+1 941.861.5000 ", "Dawn to Dusk", R.drawable.venicemunicipalbeach));
-        listItems.add(new ListItem("Nokomis Public Beach", getContext().getString(R.string.beach4), "115 S. Casey Key Rd., Nokomis, Fl 34275", "+1 941.861.5000", "Dawn to Dusk", R.drawable.nokomisbeach));
+        listItems.add(new ListItem(getString(R.string.brohardpawpark), getContext().getString(R.string.brohardpawpark_description), getString(R.string.brohardpawpark_address), getString(R.string.brohardpawpark_phonenumber), getString(R.string.brohardpawpark_hours), R.drawable.dogsonbeach));
+        listItems.add(new ListItem(getString(R.string.caspersenbeach), getContext().getString(R.string.caspersenbeach_description), getString(R.string.caspersenbeach_address), getString(R.string.caspersenbeach_phonenumber), getString(R.string.caspersenbeach_hours), R.drawable.caspersenbeach));
+        listItems.add(new ListItem(getString(R.string.venicemunicipalbeach), getContext().getString(R.string.venicemunicipalbeach_description), getString(R.string.venicemunicipalbeach_address), getString(R.string.venicemunicipalbeach_phonenumber), getString(R.string.venicemunicipalbeach_hours), R.drawable.venicemunicipalbeach));
+        listItems.add(new ListItem(getString(R.string.nokomispublicbeach), getContext().getString(R.string.nokomispublicbeach_description), getString(R.string.nokomispublicbeach_address), getString(R.string.nokomispublicbeach_phonenumber), getString(R.string.nokomispublicbeach_hours), R.drawable.nokomisbeach));
 
         ListItemAdapter adapter = new ListItemAdapter(getActivity(), R.layout.list_item, listItems);
 
